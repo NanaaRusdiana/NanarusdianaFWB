@@ -1,4 +1,4 @@
-## <p align="center" style="margin-top: 0;">SISTEM PENGARSIPAN DI PRODI INFORMATIKA</p>
+## <p align="center" style="margin-top: 0;">SISTEM PENGARSIPAN SKRIPSI DI PRODI INFORMATIKA</p>
 
 <p align="center">
   <img src="/public/LogoUnsulbar.png" width="300" alt="LogoUnsulbar" />
