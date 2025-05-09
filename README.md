@@ -18,7 +18,7 @@
 |--------------|-----------------------------------------------------------------------------------|
 | *Admin*      | Mengelola semua data (user, skripsi, kategori), menambah/mengedit/menghapus data, melihat laporan aktivitas dan download |
 | *Dosen*      | 	Membimbing skripsi, mereview skripsi, memberikan catatan revisi, melihat daftar skripsi |
-| *Mahasiswar*   | 	Mengunggah skripsi, mengelola skripsi milik sendiri, melihat daftar skripsi, mengedit profil |
+| *Mahasiswa*   | 	Mengunggah skripsi, mengelola skripsi milik sendiri, melihat daftar skripsi, mengedit profil |
 
 ---
 
